@@ -1,0 +1,11 @@
+gunicorn
+pandas
+utils
+numpy
+sklearn
+flask
+wtforms
+flask_login
+flask_sqlalchemy
+gspread
+oauth2client
